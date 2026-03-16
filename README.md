@@ -1,7 +1,10 @@
 Short-term energy consumption forecasting using MLP and LSTM neural networks.
 
+[Ozan_Cikriklioglu_L1.pdf](https://github.com/user-attachments/files/26036808/Ozan_Cikriklioglu_L1.pdf)
+
+
 ## Dataset
-Hourly Energy Consumption by Rob Mulla  
+Hourly Energy Consumption by Rob Mulla & used for educational purposes.
 https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
 
 ## Reports
